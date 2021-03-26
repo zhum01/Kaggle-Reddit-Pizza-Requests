@@ -4,7 +4,7 @@ The subreddit r/RandomActsOfPizza is an online forum where users can write posts
 
 **In this project, we aim to use the Kaggle data set to train a model that predicts whether a given pizza-request post will be fulfilled or not.**
 
-**Inference**
+**Inference:**
 
 **Input**: is a feature vector describing a post with $n$ number of features, which includes, among others, the text content of the post, and attributes of the requester.
 

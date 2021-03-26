@@ -6,7 +6,7 @@ The subreddit r/RandomActsOfPizza is an online forum where users can write posts
 
 **Inference:**
 
-**Input**: is a feature vector describing a post with $n$ number of features, which includes, among others, the text content of the post, and attributes of the requester.
+**Input**: feature vector describing a post on reddit (eg. the text content of the post, attributes of the requester, etc.)
 
 **Output**: binary value indicating whether a requester received pizza or not (0=did not receive pizza, 1=received pizza).
 
